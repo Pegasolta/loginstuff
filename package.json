@@ -1,0 +1,23 @@
+{
+  "name": "node-express-auth-lab-solution",
+  "version": "1.0.0",
+  "description": "> ***Note:*** _This can be a pair programming activity or done independently._",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primaulia/node-express-auth-lab-solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primaulia/node-express-auth-lab-solution/issues"
+  },
+  "homepage": "https://github.com/primaulia/node-express-auth-lab-solution#readme"
+}
